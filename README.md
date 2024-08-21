@@ -65,9 +65,9 @@ Code file structure:
 │       ├── ...
 ```
 We refer to the root path as '$ROOT_PATH$', and the file you want to run as '$FILE_EF$'. You can run the following code for temporal event forecsating:
-'''python
+```python
 python '$FILE_EF$' root_path='$ROOT_PATH$'
-'''
+```
 
 ## Results
 ![result](figs/result.png)
@@ -75,12 +75,12 @@ python '$FILE_EF$' root_path='$ROOT_PATH$'
 ## Cases
 'Highlighting' examples:
 <div align=center>
-<img src="figs/highlighting.png" width="800px">
+<img src="figs/highlighting.png" width="500px">
 </div>
 
 'Complementary' examples:
 <div align=center>
-<img src="figs/complementary.png" width="800px">
+<img src="figs/complementary.png" width="500px">
 </div>
 
 ## Acknowledgement
