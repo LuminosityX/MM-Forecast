@@ -17,7 +17,7 @@ conda env create -f mm_forecast.yaml
 ```
 
 ## Dataset
-The [datasets of forecastig](https://drive.google.com/drive/folders/1a75_LXw6SvbrGSdGulvgw3iOuZwznEU6?usp=sharing) can be downloaded from GoogleDrive. Place the data in the root or other directory.
+The [datasets of forecasting](https://drive.google.com/drive/folders/1a75_LXw6SvbrGSdGulvgw3iOuZwznEU6?usp=sharing) can be downloaded from GoogleDrive. Place the data in the root or other directory.
 Data structure:
 ```
 ├── datasets_forecasting/
