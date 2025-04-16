@@ -3,7 +3,7 @@
 This repository contains the code, data for the paper titled "[MM-Forecast: A Multimodal Approach to Temporal Event Forecasting with Large Language Models](https://arxiv.org/pdf/2408.04388)".
 
 ## Latest News 🔥
-* [2024-8-20] We released [code](https://github.com/LuminosityX/MM-Forecast), [MidEast-TE-mm dataset](https://github.com/LuminosityX/MM-Forecast/datasets_forecasting) of forecasting.
+* [2024-8-20] We released [code](https://github.com/LuminosityX/MM-Forecast), [MidEast-TE-mm dataset](https://github.com/LuminosityX/MM-Forecast/tree/main/datasets_forecasting) of forecasting.
 * [2024-7-16] The paper has been accepted by ACM MM 2024 (🎉🎉🎉).
 
 ## Framework
